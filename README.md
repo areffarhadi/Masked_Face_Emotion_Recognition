@@ -1,4 +1,4 @@
-# Masked_Face_Emotion_Recognition
+# CNN Fine-tuning for Masked face emotion recognition 
 Masked Face Emotion Recognition Using CNN in GoogleColab and MATLAB Software
 
 please download the MATLAB version of VGGFace2 CNN from this link of [GoogleDrive](https://drive.google.com/drive/folders/1CCniQEl1uQB94Zg2vmSnzv-cIpFmsazL?usp=sharing).
